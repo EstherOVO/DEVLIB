@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEVLIB_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day01/Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day01/Question02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day01/Question03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day01/Question04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day01/Question05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day02/Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day02/Question02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day02/Question03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day02/Question04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day02/Question05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day03/Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day03/Question02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day03/Question03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day03/Question04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day03/Question05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day04/Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day04/Question02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day04/Question03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day04/Question04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day04/Question05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day05/Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day05/Question02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day05/Question03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day05/Question04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day05/Question05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day06/Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day06/Question02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day06/Question03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day06/Question04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day06/Question05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day07/Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day07/Question02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day07/Question03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day07/Question04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day07/Question05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day08/Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day08/Question02.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2fr148D97wt7ZuS6GpcUkFwuejM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Question02.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/DEVLIB_Java/src/basic&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/admin/IdeaProjects/DEVLIB_Java/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src\basic" />
+      <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="" />
+      <created>1714544189818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714544189818</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/basic/day08/Question02.java</url>
+          <line>9</line>
+          <properties class="basic.day08.Question02.Solution" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
