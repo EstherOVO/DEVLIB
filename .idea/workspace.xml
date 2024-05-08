@@ -4,50 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEVLIB_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day01/Question01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day01/Question02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day01/Question03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day01/Question04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day01/Question05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day02/Question01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day02/Question02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day02/Question03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day02/Question04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day02/Question05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day03/Question01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day03/Question02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day03/Question03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day03/Question04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day03/Question05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day04/Question01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day04/Question02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day04/Question03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day04/Question04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day04/Question05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day05/Question01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day05/Question02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day05/Question03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day05/Question04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day05/Question05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day06/Question01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day06/Question02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day06/Question03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day06/Question04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day06/Question05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day07/Question01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day07/Question02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day07/Question03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day07/Question04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day07/Question05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day08/Question01.java" afterDir="false" />
+    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩 기초 트레이닝 - 간단한 논리 연산">
       <change afterPath="$PROJECT_DIR$/src/basic/day08/Question02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day08/Question03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day08/Question04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day08/Question05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,21 +33,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Question02.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/DEVLIB_Java/src/basic&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/admin/IdeaProjects/DEVLIB_Java/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Question02.executor": "Run",
+    "Application.Question03.executor": "Run",
+    "Application.Question04.executor": "Run",
+    "Application.Question05.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/DEVLIB_Java/src/basic",
+    "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/DEVLIB_Java/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src\basic" />
       <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basic.day08" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -104,7 +72,332 @@
       <option name="presentableId" value="Default" />
       <updated>1714544189818</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java">
+      <option name="closed" value="true" />
+      <created>1714712479981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712479981</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Programmers 코딩 기초 트레이닝 - 문자열 출력하기">
+      <option name="closed" value="true" />
+      <created>1714712530429</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712530429</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Programmers 코딩 기초 트레이닝 - a와 b 출력하기">
+      <option name="closed" value="true" />
+      <created>1714712551118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712551118</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Programmers 코딩 기초 트레이닝 - 문자열 반복해서 출력하기">
+      <option name="closed" value="true" />
+      <created>1714712583917</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712583917</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Programmers 코딩 기초 트레이닝 - 대소문자 바꿔서 출력하기">
+      <option name="closed" value="true" />
+      <created>1714712606150</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712606150</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Programmers 코딩 기초 트레이닝 - 특수문자 출력하기">
+      <option name="closed" value="true" />
+      <created>1714712618677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712618677</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Programmers 코딩 기초 트레이닝 - 덧셈식 출력하기">
+      <option name="closed" value="true" />
+      <created>1714712637180</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712637180</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Programmers 코딩 기초 트레이닝 - 문자열 붙여서 출력하기">
+      <option name="closed" value="true" />
+      <created>1714712709857</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712709857</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Programmers 코딩 기초 트레이닝 - 문자열 돌리기">
+      <option name="closed" value="true" />
+      <created>1714712726733</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712726733</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Programmers 코딩 기초 트레이닝 - 홀짝 구분하기">
+      <option name="closed" value="true" />
+      <created>1714712747002</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712747002</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Programmers 코딩 기초 트레이닝 - 문자열 겹쳐쓰기">
+      <option name="closed" value="true" />
+      <created>1714712769495</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712769495</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Programmers 코딩 기초 트레이닝 - 문자열 섞기">
+      <option name="closed" value="true" />
+      <created>1714712825025</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712825025</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Programmers 코딩 기초 트레이닝 - 문자 리스트를 문자열로 변환하기">
+      <option name="closed" value="true" />
+      <created>1714712848799</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712848799</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Programmers 코딩 기초 트레이닝 - 문자열 곱하기">
+      <option name="closed" value="true" />
+      <created>1714712887469</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712887469</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Programmers 코딩 기초 트레이닝 - 더 크게 합치기">
+      <option name="closed" value="true" />
+      <created>1714712908301</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712908301</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Programmers 코딩 기초 트레이닝 - 두 수의 연산값 비교하기">
+      <option name="closed" value="true" />
+      <created>1714712927863</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712927863</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Programmers 코딩 기초 트레이닝 - n의 배수">
+      <option name="closed" value="true" />
+      <created>1714714380164</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714380164</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Programmers 코딩 기초 트레이닝 - 공배수">
+      <option name="closed" value="true" />
+      <created>1714714398603</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714398603</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Programmers 코딩 기초 트레이닝 - 홀짝에 따라 다른 값 반환하기">
+      <option name="closed" value="true" />
+      <created>1714714427935</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714427935</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Programmers 코딩 기초 트레이닝 - 조건 문자열">
+      <option name="closed" value="true" />
+      <created>1714714445689</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714445689</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Programmers 코딩 기초 트레이닝 - flag에 따라 다른 값 반환하기">
+      <option name="closed" value="true" />
+      <created>1714714468451</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714468451</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Programmers 코딩 기초 트레이닝 - 코드 처리하기">
+      <option name="closed" value="true" />
+      <created>1714714489565</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714489565</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Programmers 코딩 기초 트레이닝 - 등차수열의 특정한 항만 더하기">
+      <option name="closed" value="true" />
+      <created>1714714518412</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714518412</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Programmers 코딩 기초 트레이닝 - 주사위 게임 2">
+      <option name="closed" value="true" />
+      <created>1714714539019</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714539019</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Programmers 코딩 기초 트레이닝 - 원소들의 곱과 합">
+      <option name="closed" value="true" />
+      <created>1714714557512</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714557512</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Programmers 코딩 기초 트레이닝 - 이어 붙인 수">
+      <option name="closed" value="true" />
+      <created>1714714592226</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714592226</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Programmers 코딩 기초 트레이닝 - 마지막 두 원소">
+      <option name="closed" value="true" />
+      <created>1714714611217</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714611217</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Programmers 코딩 기초 트레이닝 - 수 조작하기 1">
+      <option name="closed" value="true" />
+      <created>1714714629327</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714629327</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Programmers 코딩 기초 트레이닝 - 수 조작하기 2">
+      <option name="closed" value="true" />
+      <created>1714714645393</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714645393</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 3">
+      <option name="closed" value="true" />
+      <created>1714714668292</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714668292</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 2">
+      <option name="closed" value="true" />
+      <created>1714714686433</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714686433</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 4">
+      <option name="closed" value="true" />
+      <created>1714714706018</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714706018</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Programmers 코딩 기초 트레이닝 - 배열 만들기 2">
+      <option name="closed" value="true" />
+      <created>1714714726720</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714726720</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Programmers 코딩 기초 트레이닝 - 카운트 업">
+      <option name="closed" value="true" />
+      <created>1714714743934</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714743934</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Programmers 코딩 기초 트레이닝 - 콜라츠 수열 만들기">
+      <option name="closed" value="true" />
+      <created>1714714761194</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714761194</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Programmers 코딩 기초 트레이닝 - 배열 만들기 4">
+      <option name="closed" value="true" />
+      <created>1714714780301</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714780301</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Programmers 코딩 기초 트레이닝 - 간단한 논리 연산">
+      <option name="closed" value="true" />
+      <created>1714714801228</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1714714801228</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 문자 리스트를 문자열로 변환하기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 문자열 곱하기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 더 크게 합치기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 두 수의 연산값 비교하기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - n의 배수" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 공배수" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 홀짝에 따라 다른 값 반환하기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 조건 문자열" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - flag에 따라 다른 값 반환하기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 코드 처리하기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 등차수열의 특정한 항만 더하기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 주사위 게임 2" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 원소들의 곱과 합" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 이어 붙인 수" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 마지막 두 원소" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 수 조작하기 1" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 수 조작하기 2" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 3" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 2" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 4" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 배열 만들기 2" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 카운트 업" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 콜라츠 수열 만들기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 배열 만들기 4" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 간단한 논리 연산" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers 코딩 기초 트레이닝 - 간단한 논리 연산" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -117,6 +410,39 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/basic/day08/Question04.java</url>
+          <line>6</line>
+          <properties class="basic.day08.Question04.Solution" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/basic/day08/Question05.java</url>
+          <line>9</line>
+          <properties class="basic.day08.Question05.Solution" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic/day08/Question02.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic/day08/Question04.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic/day08/Question05.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
