@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩 기초 트레이닝 - 간단한 논리 연산">
-      <change afterPath="$PROJECT_DIR$/src/basic/day08/Question02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day08/Question03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day08/Question04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day08/Question05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩 기초 트레이닝 - 문자열 여러 번 뒤집기">
+      <change afterPath="$PROJECT_DIR$/src/basic/day09/Question01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +31,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Question01.executor": "Run",
     "Application.Question02.executor": "Run",
     "Application.Question03.executor": "Run",
     "Application.Question04.executor": "Run",
-    "Application.Question05.executor": "Debug",
+    "Application.Question05.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -53,6 +50,7 @@
       <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basic.day09" />
       <recent name="basic.day08" />
     </key>
   </component>
@@ -368,15 +366,50 @@
       <option name="project" value="LOCAL" />
       <updated>1714714801228</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Java">
+      <option name="closed" value="true" />
+      <created>1715144315737</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1715144315737</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Programmers 코딩 기초 트레이닝 - 주사위 게임 3">
+      <option name="closed" value="true" />
+      <created>1715144847759</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1715144847759</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Programmers 코딩 기초 트레이닝 - 글자 이어 붙여 문자열 만들기">
+      <option name="closed" value="true" />
+      <created>1715144873132</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1715144873132</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Programmers 코딩 기초 트레이닝 - 9로 나눈 나머지">
+      <option name="closed" value="true" />
+      <created>1715144892345</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1715144892345</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Programmers 코딩 기초 트레이닝 - 문자열 여러 번 뒤집기">
+      <option name="closed" value="true" />
+      <created>1715144917453</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1715144917453</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 문자 리스트를 문자열로 변환하기" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 문자열 곱하기" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 더 크게 합치기" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 두 수의 연산값 비교하기" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - n의 배수" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 공배수" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 홀짝에 따라 다른 값 반환하기" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 조건 문자열" />
@@ -397,7 +430,12 @@
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 콜라츠 수열 만들기" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 배열 만들기 4" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 간단한 논리 연산" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programmers 코딩 기초 트레이닝 - 간단한 논리 연산" />
+    <MESSAGE value="Java" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 주사위 게임 3" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 글자 이어 붙여 문자열 만들기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 9로 나눈 나머지" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 문자열 여러 번 뒤집기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers 코딩 기초 트레이닝 - 문자열 여러 번 뒤집기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -420,15 +458,6 @@
           </properties>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/basic/day08/Question05.java</url>
-          <line>9</line>
-          <properties class="basic.day08.Question05.Solution" method="solution">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/basic/day08/Question02.java</url>
           <line>50</line>
@@ -438,11 +467,6 @@
           <url>file://$PROJECT_DIR$/src/basic/day08/Question04.java</url>
           <line>23</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/basic/day08/Question05.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
