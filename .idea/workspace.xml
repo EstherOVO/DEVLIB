@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩 기초 트레이닝 - 문자열 여러 번 뒤집기">
-      <change afterPath="$PROJECT_DIR$/src/basic/day09/Question01.java" afterDir="false" />
+    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩 기초 트레이닝 - 글자 지우기">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,8 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/admin/IdeaProjects/DEVLIB_Java/src/basic",
-    "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/DEVLIB_Java/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/DEVLIB_Java/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -50,6 +51,9 @@
       <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basic.day11" />
+      <recent name="basic.day10" />
+      <recent name="day10" />
       <recent name="basic.day09" />
       <recent name="basic.day08" />
     </key>
@@ -69,62 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714544189818</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Java">
-      <option name="closed" value="true" />
-      <created>1714712479981</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1714712479981</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Programmers 코딩 기초 트레이닝 - 문자열 출력하기">
-      <option name="closed" value="true" />
-      <created>1714712530429</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1714712530429</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Programmers 코딩 기초 트레이닝 - a와 b 출력하기">
-      <option name="closed" value="true" />
-      <created>1714712551118</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1714712551118</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Programmers 코딩 기초 트레이닝 - 문자열 반복해서 출력하기">
-      <option name="closed" value="true" />
-      <created>1714712583917</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1714712583917</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Programmers 코딩 기초 트레이닝 - 대소문자 바꿔서 출력하기">
-      <option name="closed" value="true" />
-      <created>1714712606150</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1714712606150</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Programmers 코딩 기초 트레이닝 - 특수문자 출력하기">
-      <option name="closed" value="true" />
-      <created>1714712618677</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1714712618677</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Programmers 코딩 기초 트레이닝 - 덧셈식 출력하기">
-      <option name="closed" value="true" />
-      <created>1714712637180</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1714712637180</updated>
     </task>
     <task id="LOCAL-00008" summary="Programmers 코딩 기초 트레이닝 - 문자열 붙여서 출력하기">
       <option name="closed" value="true" />
@@ -406,23 +354,122 @@
       <option name="project" value="LOCAL" />
       <updated>1715144917453</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Java">
+      <option name="closed" value="true" />
+      <created>1715146241312</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1715146241312</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Programmers 코딩 기초 트레이닝 - 배열 만들기 5">
+      <option name="closed" value="true" />
+      <created>1715146265225</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1715146265225</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Programmers 코딩 기초 트레이닝 - 부분 문자열 이어 붙여 문자열 만들기">
+      <option name="closed" value="true" />
+      <created>1715232529120</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1715232529120</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Programmers 코딩 기초 트레이닝 - 문자열의 뒤의 n글자">
+      <option name="closed" value="true" />
+      <created>1715232551311</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1715232551311</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Programmers 코딩 기초 트레이닝 - 접미사 배열">
+      <option name="closed" value="true" />
+      <created>1715232570963</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1715232570963</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Programmers 코딩 기초 트레이닝 - 접미사인지 확인하기">
+      <option name="closed" value="true" />
+      <created>1715232591422</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1715232591422</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Programmers 코딩 기초 트레이닝 - 문자열의 앞의 n글자">
+      <option name="closed" value="true" />
+      <created>1715232611772</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1715232611773</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Programmers 코딩 기초 트레이닝 - 접두사인지 확인하기">
+      <option name="closed" value="true" />
+      <created>1715232633028</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1715232633029</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Programmers 코딩 기초 트레이닝 - 문자열 뒤집기">
+      <option name="closed" value="true" />
+      <created>1715232649117</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1715232649118</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Programmers 코딩 기초 트레이닝 - 세로 읽기">
+      <option name="closed" value="true" />
+      <created>1715236438506</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1715236438506</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Programmers 코딩 기초 트레이닝 - qr code">
+      <option name="closed" value="true" />
+      <created>1715236458826</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1715236458826</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Programmers 코딩 기초 트레이닝 - 문자 개수 세기">
+      <option name="closed" value="true" />
+      <created>1715323177917</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1715323177917</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Programmers 코딩 기초 트레이닝 - 배열 만들기 1">
+      <option name="closed" value="true" />
+      <created>1715323215667</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1715323215667</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Programmers 코딩 기초 트레이닝 - 글자 지우기">
+      <option name="closed" value="true" />
+      <created>1715323234377</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1715323234377</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 공배수" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 홀짝에 따라 다른 값 반환하기" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 조건 문자열" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - flag에 따라 다른 값 반환하기" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 코드 처리하기" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 등차수열의 특정한 항만 더하기" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 주사위 게임 2" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 원소들의 곱과 합" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 이어 붙인 수" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 마지막 두 원소" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 수 조작하기 1" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 수 조작하기 2" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 3" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 2" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 4" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 배열 만들기 2" />
@@ -430,12 +477,25 @@
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 콜라츠 수열 만들기" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 배열 만들기 4" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 간단한 논리 연산" />
-    <MESSAGE value="Java" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 주사위 게임 3" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 글자 이어 붙여 문자열 만들기" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 9로 나눈 나머지" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 문자열 여러 번 뒤집기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programmers 코딩 기초 트레이닝 - 문자열 여러 번 뒤집기" />
+    <MESSAGE value="Java" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 배열 만들기 5" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 부분 문자열 이어 붙여 문자열 만들기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 문자열의 뒤의 n글자" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 접미사 배열" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 접미사인지 확인하기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 문자열의 앞의 n글자" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 접두사인지 확인하기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 문자열 뒤집기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 세로 읽기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - qr code" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 문자 개수 세기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 배열 만들기 1" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 글자 지우기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers 코딩 기초 트레이닝 - 글자 지우기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
