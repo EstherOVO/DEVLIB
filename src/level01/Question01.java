@@ -45,8 +45,8 @@ public class Question01 {
 			}
 
 			for (int i = 0; i < friends.length; i++) {
-				for (int j = 0; j < i; j++) {
-					if (j > i) {
+				for (int j = 0; j < friends.length; j++) {
+					if (!friends[i].equals(friends[j]) && j > i) {
 						String me = friends[i];
 						String you = friends[j];
 
@@ -65,6 +65,9 @@ public class Question01 {
 								nextMonth.replace(me, nextMonth.get(me) + 1);
 							} else if (myPresentRate < yourPresentRate) {
 								nextMonth.replace(you, nextMonth.get(you) + 1);
+							} else {
+								nextMonth.replace(me, nextMonth.getOrDefault(me, 0));
+								nextMonth.replace(you, nextMonth.getOrDefault(you, 0));
 							}
 						}
 					}
