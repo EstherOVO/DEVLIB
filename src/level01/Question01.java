@@ -6,6 +6,7 @@ public class Question01 {
 
 	public static class Solution {
 
+//		프로그래머스(Programmers) - 2024 KAKAO WINTER INTERNSHIP - 가장 많이 받은 선물
 		public int solution(String[] friends, String[] gifts) {
 			int answer = 0;
 
