@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩 기초 트레이닝 - n보다 커질 때까지 더하기">
-      <change afterPath="$PROJECT_DIR$/src/basic/day14/Question05.java" afterDir="false" />
+    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 1">
+      <change afterPath="$PROJECT_DIR$/src/basic/day15/Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day15/Question02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day15/Question03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day15/Question04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day15/Question05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day16/Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day16/Question02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day16/Question03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day16/Question04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day16/Question05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,34 +46,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Question01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question012.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Question02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question05.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/DEVLIB_Java/src/basic&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/admin/IdeaProjects/DEVLIB_Java/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Question01.executor": "Run",
+    "Application.Question012.executor": "Debug",
+    "Application.Question02.executor": "Run",
+    "Application.Question03.executor": "Run",
+    "Application.Question04.executor": "Run",
+    "Application.Question05.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/DEVLIB_Java/src/basic",
+    "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/DEVLIB_Java/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src\basic" />
       <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basic.day16" />
+      <recent name="basic.day15" />
       <recent name="basic.day14" />
       <recent name="basic.day13" />
       <recent name="level01" />
-      <recent name="basic.day12" />
-      <recent name="basic.day11" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -82,22 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714544189818</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 4">
-      <option name="closed" value="true" />
-      <created>1714714706018</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1714714706018</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Programmers 코딩 기초 트레이닝 - 배열 만들기 2">
-      <option name="closed" value="true" />
-      <created>1714714726720</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1714714726720</updated>
     </task>
     <task id="LOCAL-00034" summary="Programmers 코딩 기초 트레이닝 - 카운트 업">
       <option name="closed" value="true" />
@@ -475,11 +468,26 @@
       <option name="project" value="LOCAL" />
       <updated>1716179512615</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 1">
+      <option name="closed" value="true" />
+      <created>1716180463377</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1716180463377</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Java">
+      <option name="closed" value="true" />
+      <created>1716180486816</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1716180486816</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 문자열 뒤집기" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 세로 읽기" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - qr code" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 문자 개수 세기" />
@@ -493,7 +501,6 @@
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 2의 영역" />
     <MESSAGE value="Programmers Level 1 - 가장 많이 받은 선물" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 배열 조각하기" />
-    <MESSAGE value="Java" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - n 번째 원소부터" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 순서 바꾸기" />
     <MESSAGE value="Programmers - 가장 많이 받은 선물" />
@@ -504,7 +511,9 @@
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 5명씩" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 할 일 목록" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - n보다 커질 때까지 더하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programmers 코딩 기초 트레이닝 - n보다 커질 때까지 더하기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 1" />
+    <MESSAGE value="Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -545,6 +554,24 @@
           </properties>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/basic/day15/Question01.java</url>
+          <line>8</line>
+          <properties class="basic.day15.Question01.Solution" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/basic/day15/Question03.java</url>
+          <line>6</line>
+          <properties class="basic.day15.Question03.Solution" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/basic/day08/Question02.java</url>
           <line>50</line>
@@ -559,6 +586,16 @@
           <url>file://$PROJECT_DIR$/src/level01/Question01.java</url>
           <line>127</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic/day15/Question01.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic/day15/Question03.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
