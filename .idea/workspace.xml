@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 1">
-      <change afterPath="$PROJECT_DIR$/src/basic/day15/Question01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day15/Question02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day15/Question03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day15/Question04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day15/Question05.java" afterDir="false" />
+    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩 기초 트레이닝 - 대문자로 바꾸기">
       <change afterPath="$PROJECT_DIR$/src/basic/day16/Question01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basic/day16/Question02.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basic/day16/Question03.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basic/day16/Question04.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basic/day16/Question05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,70 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714544189818</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Programmers 코딩 기초 트레이닝 - 카운트 업">
-      <option name="closed" value="true" />
-      <created>1714714743934</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1714714743934</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Programmers 코딩 기초 트레이닝 - 콜라츠 수열 만들기">
-      <option name="closed" value="true" />
-      <created>1714714761194</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1714714761194</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Programmers 코딩 기초 트레이닝 - 배열 만들기 4">
-      <option name="closed" value="true" />
-      <created>1714714780301</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1714714780301</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Programmers 코딩 기초 트레이닝 - 간단한 논리 연산">
-      <option name="closed" value="true" />
-      <created>1714714801228</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1714714801228</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Java">
-      <option name="closed" value="true" />
-      <created>1715144315737</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1715144315737</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Programmers 코딩 기초 트레이닝 - 주사위 게임 3">
-      <option name="closed" value="true" />
-      <created>1715144847759</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1715144847759</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Programmers 코딩 기초 트레이닝 - 글자 이어 붙여 문자열 만들기">
-      <option name="closed" value="true" />
-      <created>1715144873132</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1715144873132</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Programmers 코딩 기초 트레이닝 - 9로 나눈 나머지">
-      <option name="closed" value="true" />
-      <created>1715144892345</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1715144892345</updated>
     </task>
     <task id="LOCAL-00042" summary="Programmers 코딩 기초 트레이닝 - 문자열 여러 번 뒤집기">
       <option name="closed" value="true" />
@@ -484,16 +414,74 @@
       <option name="project" value="LOCAL" />
       <updated>1716180486816</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Java">
+      <option name="closed" value="true" />
+      <created>1716265210016</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1716265210017</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Programmers 코딩 기초 트레이닝 - 조건에 맞게 수열 변환하기 1">
+      <option name="closed" value="true" />
+      <created>1716265259643</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1716265259643</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Programmers 코딩 기초 트레이닝 - 조건에 맞게 수열 변환하기 2">
+      <option name="closed" value="true" />
+      <created>1716265272888</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1716265272888</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Programmers 코딩 기초 트레이닝 - 1로 만들기">
+      <option name="closed" value="true" />
+      <created>1716265298175</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1716265298175</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Programmers - 가장 많이 받은 선물">
+      <option name="closed" value="true" />
+      <created>1716265389807</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1716265389807</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Programmers 코딩 기초 트레이닝 - 길이에 따른 연산">
+      <option name="closed" value="true" />
+      <created>1716265432212</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1716265432212</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Programmers 코딩 기초 트레이닝 - 원하는 문자열 찾기">
+      <option name="closed" value="true" />
+      <created>1716265445006</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1716265445006</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Programmers 코딩 기초 트레이닝 - 대문자로 바꾸기">
+      <option name="closed" value="true" />
+      <created>1716265461409</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1716265461410</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 세로 읽기" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - qr code" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 문자 개수 세기" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 배열 만들기 1" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 글자 지우기" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 카운트 다운" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 가까운 1 찾기" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 리스트 자르기" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 첫 번째로 나오는 음수" />
@@ -503,7 +491,6 @@
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 배열 조각하기" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - n 번째 원소부터" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 순서 바꾸기" />
-    <MESSAGE value="Programmers - 가장 많이 받은 선물" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 왼쪽 오른쪽" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - n 번째 원소까지" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - n개 간격의 원소들" />
@@ -513,7 +500,14 @@
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - n보다 커질 때까지 더하기" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 1" />
     <MESSAGE value="Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 조건에 맞게 수열 변환하기 1" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 조건에 맞게 수열 변환하기 2" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 1로 만들기" />
+    <MESSAGE value="Programmers - 가장 많이 받은 선물" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 길이에 따른 연산" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 원하는 문자열 찾기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 대문자로 바꾸기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers 코딩 기초 트레이닝 - 대문자로 바꾸기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -547,7 +541,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/level01/Question01.java</url>
-          <line>8</line>
+          <line>9</line>
           <properties class="level01.Question01.Solution" method="solution">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -584,7 +578,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/level01/Question01.java</url>
-          <line>127</line>
+          <line>128</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
