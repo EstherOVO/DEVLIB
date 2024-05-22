@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩 기초 트레이닝 - 대문자로 바꾸기">
-      <change afterPath="$PROJECT_DIR$/src/basic/day16/Question01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day16/Question02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day16/Question03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day16/Question04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day16/Question05.java" afterDir="false" />
+    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩 기초 트레이닝 - 특정한 문자를 대문자로 바꾸기">
+      <change afterPath="$PROJECT_DIR$/src/basic/day17/Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day17/Question02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day17/Question03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day17/Question04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day17/Question05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day18/Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day18/Question02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day18/Question03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day18/Question04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/day18/Question05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,34 +46,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Question01.executor": "Run",
-    "Application.Question012.executor": "Debug",
-    "Application.Question02.executor": "Run",
-    "Application.Question03.executor": "Run",
-    "Application.Question04.executor": "Run",
-    "Application.Question05.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/IdeaProjects/DEVLIB_Java/src/basic",
-    "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/DEVLIB_Java/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Question01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question012.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Question02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question05.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/DEVLIB_Java/src/basic&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/admin/IdeaProjects/DEVLIB_Java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src\basic" />
       <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basic.day18" />
+      <recent name="basic.day17" />
       <recent name="basic.day16" />
       <recent name="basic.day15" />
       <recent name="basic.day14" />
-      <recent name="basic.day13" />
-      <recent name="level01" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -85,46 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714544189818</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Programmers 코딩 기초 트레이닝 - 문자열 여러 번 뒤집기">
-      <option name="closed" value="true" />
-      <created>1715144917453</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1715144917453</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Java">
-      <option name="closed" value="true" />
-      <created>1715146241312</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1715146241312</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Programmers 코딩 기초 트레이닝 - 배열 만들기 5">
-      <option name="closed" value="true" />
-      <created>1715146265225</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1715146265225</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Programmers 코딩 기초 트레이닝 - 부분 문자열 이어 붙여 문자열 만들기">
-      <option name="closed" value="true" />
-      <created>1715232529120</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1715232529120</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Programmers 코딩 기초 트레이닝 - 문자열의 뒤의 n글자">
-      <option name="closed" value="true" />
-      <created>1715232551311</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1715232551311</updated>
     </task>
     <task id="LOCAL-00047" summary="Programmers 코딩 기초 트레이닝 - 접미사 배열">
       <option name="closed" value="true" />
@@ -478,14 +444,50 @@
       <option name="project" value="LOCAL" />
       <updated>1716265461410</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Programmers 코딩 기초 트레이닝 - 소문자로 바꾸기">
+      <option name="closed" value="true" />
+      <created>1716265477125</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1716265477125</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Programmers 코딩 기초 트레이닝 - 배열에서 문자열 대소문자 변환하기">
+      <option name="closed" value="true" />
+      <created>1716265510279</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1716265510279</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Programmers 코딩 기초 트레이닝 - A 강조하기">
+      <option name="closed" value="true" />
+      <created>1716265527919</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1716265527919</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Programmers 코딩 기초 트레이닝 - 특정한 문자를 대문자로 바꾸기">
+      <option name="closed" value="true" />
+      <created>1716265554753</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1716265554753</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Java">
+      <option name="closed" value="true" />
+      <created>1716265574188</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1716265574188</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 가까운 1 찾기" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 리스트 자르기" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 첫 번째로 나오는 음수" />
-    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 배열 만들기 3" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 2의 영역" />
     <MESSAGE value="Programmers Level 1 - 가장 많이 받은 선물" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 배열 조각하기" />
@@ -499,7 +501,6 @@
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 할 일 목록" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - n보다 커질 때까지 더하기" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 수열과 구간 쿼리 1" />
-    <MESSAGE value="Java" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 조건에 맞게 수열 변환하기 1" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 조건에 맞게 수열 변환하기 2" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 1로 만들기" />
@@ -507,7 +508,12 @@
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 길이에 따른 연산" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 원하는 문자열 찾기" />
     <MESSAGE value="Programmers 코딩 기초 트레이닝 - 대문자로 바꾸기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programmers 코딩 기초 트레이닝 - 대문자로 바꾸기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 소문자로 바꾸기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 배열에서 문자열 대소문자 변환하기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - A 강조하기" />
+    <MESSAGE value="Programmers 코딩 기초 트레이닝 - 특정한 문자를 대문자로 바꾸기" />
+    <MESSAGE value="Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
