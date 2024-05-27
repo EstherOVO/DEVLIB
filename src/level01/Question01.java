@@ -114,7 +114,7 @@ public class Question01 {
 
 		Solution solution = new Solution();
 
-		String[] friends1 = {"muzi", "ryan", "frodo", "neo" };
+		String[] friends1 = { "muzi", "ryan", "frodo", "neo" };
 		String[] gifts1 = { "muzi frodo", "muzi frodo", "ryan muzi", "ryan muzi", "ryan muzi", "frodo muzi", "frodo ryan", "neo muzi" };
 
 		String[] friends2 = { "joy", "brad", "alessandro", "conan", "david" };
