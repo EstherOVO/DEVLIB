@@ -46,7 +46,7 @@ public class Question01 {
 				}
 			}
 
-//          3. 선물 지수 측정 + 히스토리 선물 주고 받은 내역 카운트
+//          3. 선물 지수 측정 & 히스토리 선물 주고 받은 내역 카운트
 			for (int i = 0; i < giveAndTake.size(); i++) {
 				for (Map.Entry<String, String> giveTakeMap : giveAndTake.get(i).entrySet()) {
 					String givePerson = giveTakeMap.getKey();
