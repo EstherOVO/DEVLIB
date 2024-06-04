@@ -1,5 +1,6 @@
 package level01;
 
+import java.time.LocalDate;
 import java.util.*;
 
 public class Question06 {
@@ -10,67 +11,38 @@ public class Question06 {
         public int[] solution(String today, String[] terms, String[] privacies) {
             int[] answer = {};
 
-            Map<Integer, Map<String, String>> mapNumber = new HashMap<>();
+            Map<String, Integer> termsMap = new HashMap<>();
             List<Integer> finalCheckPrivacy = new ArrayList<>();
 
-            for (int i = 0; i < privacies.length; i++) {
-                Map<String, String> map = new HashMap<>();
+            for (int i = 0; i < terms.length; i++) {
+                String[] termSplit = terms[i].split(" ");
 
-                String[] split = privacies[i].split(" ");
-                map.put(split[0], split[1]);
-
-                mapNumber.put(i + 1, map);
+                termsMap.put(termSplit[0], Integer.parseInt(termSplit[1]));
             }
 
+            int count = 1;
             for (int i = 0; i < privacies.length; i++) {
-                for (int j = 0; j < terms.length; j++) {
 
-                    String[] termSplit = terms[j].split(" ");
-                    String[] privacySplit = privacies[i].split(" ");
+                Integer dueDate = termsMap.get(privacies[i].substring(11));
 
-                    if (termSplit[0].equals(privacySplit[1])) {
+                int year = Integer.parseInt(privacies[i].substring(0, 4));
+                int month = Integer.parseInt(privacies[i].substring(5, 7));
+                int day = Integer.parseInt(privacies[i].substring(8, 10));
 
-                        String[] startDate = privacySplit[0].split("[.]");
+                LocalDate until = LocalDate.of(year, month, day);
+                until = until.plusMonths(dueDate);
 
-                        int year = Integer.parseInt(startDate[0]);
-                        int month = Integer.parseInt(startDate[1]) + Integer.parseInt(termSplit[1]);
-                        if (month > 12) {
-                            year += month / 12;
-                            month = month % 12;
-                        }
-                        int day = Integer.parseInt(startDate[2]);
+                int todayYear = Integer.parseInt(today.substring(0, 4));
+                int todayMonth = Integer.parseInt(today.substring(5, 7));
+                int todayDay = Integer.parseInt(today.substring(8, 10));
 
-                        String[] todaySplit = today.split("[.]");
+                LocalDate now = LocalDate.of(todayYear, todayMonth, todayDay);
 
-                        int todayYear = Integer.parseInt(todaySplit[0]);
-                        int todayMonth = Integer.parseInt(todaySplit[1]);
-                        int todayDay = Integer.parseInt(todaySplit[2]);
-
-                        for (Map.Entry<Integer, Map<String, String>> integerMapEntry : mapNumber.entrySet()) {
-                            Map<String, String> value = integerMapEntry.getValue();
-                            for (Map.Entry<String, String> entry : value.entrySet()) {
-                                if (entry.getKey().equals(privacySplit[0]) && entry.getValue().equals(privacySplit[1])) {
-
-                                    if (todayYear > year) {
-
-                                        finalCheckPrivacy.add(integerMapEntry.getKey());
-                                        break;
-
-                                    } else if (todayYear == year) {
-                                        if (todayMonth > month) {
-                                            finalCheckPrivacy.add(integerMapEntry.getKey());
-                                            break;
-
-                                        } else if (todayMonth == month) {
-                                            if (todayDay >= day) finalCheckPrivacy.add(integerMapEntry.getKey());
-                                            break;
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
+                if (now.isAfter(until) || now.isEqual(until)) {
+                    finalCheckPrivacy.add(count);
                 }
+
+                count++;
             }
 
             answer = finalCheckPrivacy.stream().mapToInt(Integer::intValue).toArray();
