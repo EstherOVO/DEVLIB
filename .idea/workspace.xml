@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers - 바탕화면 정리">
-      <change afterPath="$PROJECT_DIR$/src/level01/Question08.java" afterDir="false" />
+    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers - 크레인 인형뽑기 게임">
+      <change afterPath="$PROJECT_DIR$/src/level01/Question11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,10 @@
     "Application.Question06_2.executor": "Run",
     "Application.Question07.executor": "Run",
     "Application.Question08.executor": "Run",
+    "Application.Question08_2.executor": "Run",
+    "Application.Question09.executor": "Run",
+    "Application.Question10.executor": "Run",
+    "Application.Question11.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -70,11 +74,11 @@
       <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="beginner.day12" />
+      <recent name="beginner.day11" />
+      <recent name="level01" />
       <recent name="beginner.day10" />
       <recent name="beginner.day09" />
-      <recent name="level01" />
-      <recent name="beginner.day08" />
-      <recent name="beginner.day07" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -92,102 +96,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714544189818</updated>
-    </task>
-    <task id="LOCAL-00149" summary="Programmers 코딩 기초 트레이닝 - 정수를 나선형으로 배치하기">
-      <option name="closed" value="true" />
-      <created>1716958220348</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1716958220348</updated>
-    </task>
-    <task id="LOCAL-00150" summary="Programmers 코딩 기초 트레이닝 - 특별한 이차원 배열 2">
-      <option name="closed" value="true" />
-      <created>1716958234969</created>
-      <option name="number" value="00150" />
-      <option name="presentableId" value="LOCAL-00150" />
-      <option name="project" value="LOCAL" />
-      <updated>1716958234970</updated>
-    </task>
-    <task id="LOCAL-00151" summary="Programmers 코딩 기초 트레이닝 - 정사각형으로 만들기">
-      <option name="closed" value="true" />
-      <created>1716958249279</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1716958249279</updated>
-    </task>
-    <task id="LOCAL-00152" summary="Programmers 코딩 기초 트레이닝 - 이차원 배열 대각선 순회하기">
-      <option name="closed" value="true" />
-      <created>1716958263495</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1716958263495</updated>
-    </task>
-    <task id="LOCAL-00153" summary="Programmers 코딩테스트 입문 - 두 수의 합">
-      <option name="closed" value="true" />
-      <created>1716961083579</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1716961083579</updated>
-    </task>
-    <task id="LOCAL-00154" summary="Programmers 코딩테스트 입문 - 두 수의 차">
-      <option name="closed" value="true" />
-      <created>1716961096616</created>
-      <option name="number" value="00154" />
-      <option name="presentableId" value="LOCAL-00154" />
-      <option name="project" value="LOCAL" />
-      <updated>1716961096616</updated>
-    </task>
-    <task id="LOCAL-00155" summary="Programmers 코딩테스트 입문 - 두 수의 곱">
-      <option name="closed" value="true" />
-      <created>1716961115769</created>
-      <option name="number" value="00155" />
-      <option name="presentableId" value="LOCAL-00155" />
-      <option name="project" value="LOCAL" />
-      <updated>1716961115769</updated>
-    </task>
-    <task id="LOCAL-00156" summary="Programmers 코딩테스트 입문 - 몫 구하기">
-      <option name="closed" value="true" />
-      <created>1716961127982</created>
-      <option name="number" value="00156" />
-      <option name="presentableId" value="LOCAL-00156" />
-      <option name="project" value="LOCAL" />
-      <updated>1716961127982</updated>
-    </task>
-    <task id="LOCAL-00157" summary="Programmers 코딩테스트 입문 - 두 수의 나눗셈">
-      <option name="closed" value="true" />
-      <created>1716961139858</created>
-      <option name="number" value="00157" />
-      <option name="presentableId" value="LOCAL-00157" />
-      <option name="project" value="LOCAL" />
-      <updated>1716961139858</updated>
-    </task>
-    <task id="LOCAL-00158" summary="Programmers 코딩테스트 입문 - 숫자 비교하기">
-      <option name="closed" value="true" />
-      <created>1716961151871</created>
-      <option name="number" value="00158" />
-      <option name="presentableId" value="LOCAL-00158" />
-      <option name="project" value="LOCAL" />
-      <updated>1716961151871</updated>
-    </task>
-    <task id="LOCAL-00159" summary="Programmers 코딩테스트 입문 - 분수의 덧셈">
-      <option name="closed" value="true" />
-      <created>1716961163080</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1716961163080</updated>
-    </task>
-    <task id="LOCAL-00160" summary="Programmers 코딩테스트 입문 - 배열 두 배 만들기">
-      <option name="closed" value="true" />
-      <created>1716961175461</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1716961175461</updated>
     </task>
     <task id="LOCAL-00161" summary="Programmers 코딩테스트 입문 - 나머지 구하기">
       <option name="closed" value="true" />
@@ -485,22 +393,106 @@
       <option name="project" value="LOCAL" />
       <updated>1717476477920</updated>
     </task>
-    <option name="localTasksCounter" value="198" />
+    <task id="LOCAL-00198" summary="Programmers - 성격 유형 검사하기">
+      <option name="closed" value="true" />
+      <created>1717486176116</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1717486176117</updated>
+    </task>
+    <task id="LOCAL-00199" summary="Java">
+      <option name="closed" value="true" />
+      <created>1717486196428</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1717486196428</updated>
+    </task>
+    <task id="LOCAL-00200" summary="Programmers 코딩테스트 입문 - 주사위의 개수">
+      <option name="closed" value="true" />
+      <created>1717550317840</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1717550317840</updated>
+    </task>
+    <task id="LOCAL-00201" summary="Programmers 코딩테스트 입문 - 합성수 찾기">
+      <option name="closed" value="true" />
+      <created>1717550358929</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1717550358929</updated>
+    </task>
+    <task id="LOCAL-00202" summary="Programmers 코딩테스트 입문 - 최댓값 만들기(1)">
+      <option name="closed" value="true" />
+      <created>1717550371497</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1717550371497</updated>
+    </task>
+    <task id="LOCAL-00203" summary="Programmers 코딩테스트 입문 - 팩토리얼">
+      <option name="closed" value="true" />
+      <created>1717550389789</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1717550389789</updated>
+    </task>
+    <task id="LOCAL-00204" summary="Programmers 코딩테스트 입문 - 모음 제거">
+      <option name="closed" value="true" />
+      <created>1717550414823</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1717550414823</updated>
+    </task>
+    <task id="LOCAL-00205" summary="Programmers 코딩테스트 입문 - 문자열 정렬하기 (1)">
+      <option name="closed" value="true" />
+      <created>1717550442290</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1717550442290</updated>
+    </task>
+    <task id="LOCAL-00206" summary="Programmers 코딩테스트 입문 - 숨어있는 숫자의 덧셈 (1)">
+      <option name="closed" value="true" />
+      <created>1717550486961</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1717550486961</updated>
+    </task>
+    <task id="LOCAL-00207" summary="Programmers 코딩테스트 입문 - 소인수분해">
+      <option name="closed" value="true" />
+      <created>1717550506642</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1717550506642</updated>
+    </task>
+    <task id="LOCAL-00208" summary="Programmers - 신규 아이디 추천">
+      <option name="closed" value="true" />
+      <created>1717554055823</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1717554055823</updated>
+    </task>
+    <task id="LOCAL-00209" summary="Programmers - 크레인 인형뽑기 게임">
+      <option name="closed" value="true" />
+      <created>1717571524232</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1717571524232</updated>
+    </task>
+    <option name="localTasksCounter" value="210" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Programmers 코딩테스트 입문 - 배열 뒤집기" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 문자열 뒤집기" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 직각삼각형 출력하기" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 짝수 홀수 개수" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 문자 반복 출력하기" />
-    <MESSAGE value="Java" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 특정 문자 제거하기" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 각도기" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 양꼬치" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 짝수의 합" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 배열 자르기" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 외계행성의 나이" />
     <MESSAGE value="Programmers 코딩테스트 입문 - 진료순서 정하기" />
     <MESSAGE value="Programmers 코딩테스트 입문 - 순서쌍의 개수" />
     <MESSAGE value="Programmers - 공원 산책" />
@@ -514,7 +506,19 @@
     <MESSAGE value="Programmers 코딩테스트 입문 - 배열 회전시키기" />
     <MESSAGE value="Programmers - 개인정보 수집 유효기간" />
     <MESSAGE value="Programmers - 바탕화면 정리" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programmers - 바탕화면 정리" />
+    <MESSAGE value="Programmers - 성격 유형 검사하기" />
+    <MESSAGE value="Java" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 주사위의 개수" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 합성수 찾기" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 최댓값 만들기(1)" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 팩토리얼" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 모음 제거" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 문자열 정렬하기 (1)" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 숨어있는 숫자의 덧셈 (1)" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 소인수분해" />
+    <MESSAGE value="Programmers - 신규 아이디 추천" />
+    <MESSAGE value="Programmers - 크레인 인형뽑기 게임" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers - 크레인 인형뽑기 게임" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -708,6 +712,24 @@
           </properties>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/level01/Question10.java</url>
+          <line>10</line>
+          <properties class="level01.Question10.Solution" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/level01/Question11.java</url>
+          <line>10</line>
+          <properties class="level01.Question11.Solution" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/basic/day08/Question02.java</url>
           <line>50</line>
@@ -822,6 +844,21 @@
           <url>file://$PROJECT_DIR$/src/level01/Question07.java</url>
           <line>59</line>
           <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/beginner/day12/Question01.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level01/Question10.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level01/Question11.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="71" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
