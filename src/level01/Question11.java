@@ -31,6 +31,7 @@ public class Question11 {
 //          키패드 누르기 시작
             for (int i = 0; i < numbers.length; i++) {
 
+//              1. 누르려는 번호가 1, 4, 7 중에 있을 경우
                 if (numbers[i] == 1 || numbers[i] == 4 || numbers[i] == 7) {
 
                     for (Map.Entry<Integer, int[]> entry : keypad.entrySet()) {
@@ -42,6 +43,7 @@ public class Question11 {
                     }
                     answer.append("L");
 
+//              2. 누르려는 번호가 3, 6, 9 중에 있을 경우
                 } else if (numbers[i] == 3 || numbers[i] == 6 || numbers[i] == 9) {
 
                     for (Map.Entry<Integer, int[]> entry : keypad.entrySet()) {
@@ -53,6 +55,7 @@ public class Question11 {
                     }
                     answer.append("R");
 
+//              3. 누르려는 번호가 2, 5, 8, 0 중에 있을 경우
                 } else {
 
                     for (Map.Entry<Integer, int[]> entry : keypad.entrySet()) {
