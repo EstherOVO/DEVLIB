@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers - 키패드 누르기">
-      <change afterPath="$PROJECT_DIR$/src/beginner/day15/Question01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/day15/Question02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/day15/Question03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/day15/Question04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/day16/Question01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/day16/Question02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/day16/Question03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/day16/Question04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level01/Question12.java" afterDir="false" />
+    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩테스트 입문 - 잘라서 배열로 저장하기">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/day19/Question03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/day19/Question04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/day20/Question01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/day20/Question02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/day20/Question03.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEVLIB_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DEVLIB_Java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +32,25 @@
       <list>
         <option value="package-info" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EstherOVO&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EstherOVO/DEVLIB.git&quot;,
+    &quot;accountId&quot;: &quot;7e0490bf-c9c2-4bec-8444-746dc314f7b5&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -46,39 +60,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Question01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question012.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Question02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question02_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question03_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question05.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Question06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question06_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question08_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question11_2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/SPRING_Study&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/admin/IdeaProjects/DEVLIB_Java/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Question01.executor": "Run",
+    "Application.Question012.executor": "Debug",
+    "Application.Question02.executor": "Run",
+    "Application.Question02_1.executor": "Run",
+    "Application.Question03.executor": "Run",
+    "Application.Question03_1.executor": "Run",
+    "Application.Question04.executor": "Run",
+    "Application.Question05.executor": "Debug",
+    "Application.Question06.executor": "Run",
+    "Application.Question06_2.executor": "Run",
+    "Application.Question07.executor": "Run",
+    "Application.Question08.executor": "Run",
+    "Application.Question08_2.executor": "Run",
+    "Application.Question09.executor": "Run",
+    "Application.Question10.executor": "Run",
+    "Application.Question11.executor": "Run",
+    "Application.Question11_2.executor": "Run",
+    "Kotlin.Question01Kt.executor": "Run",
+    "Kotlin.Question02Kt.executor": "Run",
+    "Kotlin.Question03Kt.executor": "Run",
+    "Kotlin.Question04Kt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/tmejw/IdeaProjects/DEVLIB/src/beginner/day20",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/DEVLIB_Java/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tmejw\IdeaProjects\DEVLIB\src\beginner\day20" />
+      <recent name="C:\Users\tmejw\IdeaProjects\DEVLIB\src\beginner\day19" />
       <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src\basic" />
       <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src" />
     </key>
@@ -93,7 +120,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -105,14 +133,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714544189818</updated>
-    </task>
-    <task id="LOCAL-00174" summary="Programmers 코딩테스트 입문 - 직각삼각형 출력하기">
-      <option name="closed" value="true" />
-      <created>1717115114043</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1717115114043</updated>
+      <workItem from="1721097023633" duration="2606000" />
+      <workItem from="1721110532448" duration="3877000" />
+      <workItem from="1721191278836" duration="10010000" />
     </task>
     <task id="LOCAL-00175" summary="Programmers 코딩테스트 입문 - 짝수 홀수 개수">
       <option name="closed" value="true" />
@@ -498,11 +521,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718004161722</updated>
     </task>
-    <option name="localTasksCounter" value="223" />
+    <task id="LOCAL-00223" summary="Programmers 코딩테스트 입문 - 잘라서 배열로 저장하기">
+      <option name="closed" value="true" />
+      <created>1721201383397</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1721201383397</updated>
+    </task>
+    <option name="localTasksCounter" value="224" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Programmers 코딩테스트 입문 - 공 던지기" />
     <MESSAGE value="Programmers 코딩테스트 입문 - 배열 회전시키기" />
     <MESSAGE value="Programmers - 개인정보 수집 유효기간" />
     <MESSAGE value="Programmers - 바탕화면 정리" />
@@ -527,7 +560,8 @@
     <MESSAGE value="Programmers 코딩테스트 입문 - 대문자와 소문자" />
     <MESSAGE value="Java" />
     <MESSAGE value="Programmers - 키패드 누르기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programmers - 키패드 누르기" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 잘라서 배열로 저장하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers 코딩테스트 입문 - 잘라서 배열로 저장하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -871,5 +905,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
