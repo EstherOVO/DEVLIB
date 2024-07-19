@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩테스트 입문 - 잘라서 배열로 저장하기">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/day19/Question03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/day19/Question04.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/day20/Question01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/day20/Question02.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/day20/Question03.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9e05e0b4-0948-4f17-8031-d4ccb7d97aeb" name="Changes" comment="Programmers 코딩테스트 입문 - 숨어있는 숫자의 덧셈 (2)">
+      <change afterPath="$PROJECT_DIR$/src/beginner/day21/Question02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/day21/Question03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/day21/Question04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/day22/Question01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/day22/Question02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/day22/Question03.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEVLIB_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DEVLIB_Java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +77,7 @@
     "Application.Question11_2.executor": "Run",
     "Kotlin.Question01Kt.executor": "Run",
     "Kotlin.Question02Kt.executor": "Run",
+    "Kotlin.Question02_2Kt.executor": "Run",
     "Kotlin.Question03Kt.executor": "Run",
     "Kotlin.Question04Kt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -88,7 +85,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/tmejw/IdeaProjects/DEVLIB/src/beginner/day20",
+    "last_opened_file_path": "C:/Users/tmejw/IdeaProjects/DEVLIB/src/beginner/day22",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,10 +101,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tmejw\IdeaProjects\DEVLIB\src\beginner\day22" />
+      <recent name="C:\Users\tmejw\IdeaProjects\DEVLIB\src\beginner\day21" />
       <recent name="C:\Users\tmejw\IdeaProjects\DEVLIB\src\beginner\day20" />
       <recent name="C:\Users\tmejw\IdeaProjects\DEVLIB\src\beginner\day19" />
       <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src\basic" />
-      <recent name="C:\Users\admin\IdeaProjects\DEVLIB_Java\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="beginner.day16" />
@@ -135,71 +133,11 @@
       <updated>1714544189818</updated>
       <workItem from="1721097023633" duration="2606000" />
       <workItem from="1721110532448" duration="3877000" />
-      <workItem from="1721191278836" duration="10010000" />
-    </task>
-    <task id="LOCAL-00175" summary="Programmers 코딩테스트 입문 - 짝수 홀수 개수">
-      <option name="closed" value="true" />
-      <created>1717115130561</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1717115130561</updated>
-    </task>
-    <task id="LOCAL-00176" summary="Programmers 코딩테스트 입문 - 문자 반복 출력하기">
-      <option name="closed" value="true" />
-      <created>1717115147934</created>
-      <option name="number" value="00176" />
-      <option name="presentableId" value="LOCAL-00176" />
-      <option name="project" value="LOCAL" />
-      <updated>1717115147934</updated>
-    </task>
-    <task id="LOCAL-00177" summary="Java">
-      <option name="closed" value="true" />
-      <created>1717115196327</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1717115196327</updated>
-    </task>
-    <task id="LOCAL-00178" summary="Programmers 코딩테스트 입문 - 특정 문자 제거하기">
-      <option name="closed" value="true" />
-      <created>1717379888516</created>
-      <option name="number" value="00178" />
-      <option name="presentableId" value="LOCAL-00178" />
-      <option name="project" value="LOCAL" />
-      <updated>1717379888516</updated>
-    </task>
-    <task id="LOCAL-00179" summary="Programmers 코딩테스트 입문 - 각도기">
-      <option name="closed" value="true" />
-      <created>1717379903735</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1717379903735</updated>
-    </task>
-    <task id="LOCAL-00180" summary="Programmers 코딩테스트 입문 - 양꼬치">
-      <option name="closed" value="true" />
-      <created>1717379916918</created>
-      <option name="number" value="00180" />
-      <option name="presentableId" value="LOCAL-00180" />
-      <option name="project" value="LOCAL" />
-      <updated>1717379916918</updated>
-    </task>
-    <task id="LOCAL-00181" summary="Programmers 코딩테스트 입문 - 짝수의 합">
-      <option name="closed" value="true" />
-      <created>1717379929650</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1717379929650</updated>
-    </task>
-    <task id="LOCAL-00182" summary="Programmers 코딩테스트 입문 - 배열 자르기">
-      <option name="closed" value="true" />
-      <created>1717379960470</created>
-      <option name="number" value="00182" />
-      <option name="presentableId" value="LOCAL-00182" />
-      <option name="project" value="LOCAL" />
-      <updated>1717379960471</updated>
+      <workItem from="1721191278836" duration="13143000" />
+      <workItem from="1721206392521" duration="10000" />
+      <workItem from="1721260280036" duration="3594000" />
+      <workItem from="1721346601055" duration="20977000" />
+      <workItem from="1721374106476" duration="4437000" />
     </task>
     <task id="LOCAL-00183" summary="Programmers 코딩테스트 입문 - 외계행성의 나이">
       <option name="closed" value="true" />
@@ -529,21 +467,77 @@
       <option name="project" value="LOCAL" />
       <updated>1721201383397</updated>
     </task>
-    <option name="localTasksCounter" value="224" />
+    <task id="LOCAL-00224" summary="Programmers 코딩테스트 입문 - 중복된 숫자 개수">
+      <option name="closed" value="true" />
+      <created>1721201410535</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1721201410535</updated>
+    </task>
+    <task id="LOCAL-00225" summary="Programmers 코딩테스트 입문 - 머쓱이보다 키 큰 사람">
+      <option name="closed" value="true" />
+      <created>1721201426968</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1721201426968</updated>
+    </task>
+    <task id="LOCAL-00226" summary="Programmers 코딩테스트 입문 - 직사각형 넓이 구하기">
+      <option name="closed" value="true" />
+      <created>1721201446938</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1721201446938</updated>
+    </task>
+    <task id="LOCAL-00227" summary="Programmers 코딩테스트 입문 - 캐릭터의 좌표">
+      <option name="closed" value="true" />
+      <created>1721201458502</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1721201458502</updated>
+    </task>
+    <task id="LOCAL-00228" summary="Programmers 코딩테스트 입문 - 최댓값 만들기 (2)">
+      <option name="closed" value="true" />
+      <created>1721201470760</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1721201470760</updated>
+    </task>
+    <task id="LOCAL-00229" summary="Java And Kotlin">
+      <option name="closed" value="true" />
+      <created>1721201520575</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1721201520575</updated>
+    </task>
+    <task id="LOCAL-00230" summary="Programmers 코딩테스트 입문 - 다항식 더하기">
+      <option name="closed" value="true" />
+      <created>1721293549445</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1721293549446</updated>
+    </task>
+    <task id="LOCAL-00231" summary="Programmers 코딩테스트 입문 - 숨어있는 숫자의 덧셈 (2)">
+      <option name="closed" value="true" />
+      <created>1721293577368</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1721293577368</updated>
+    </task>
+    <option name="localTasksCounter" value="232" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Programmers 코딩테스트 입문 - 배열 회전시키기" />
-    <MESSAGE value="Programmers - 개인정보 수집 유효기간" />
-    <MESSAGE value="Programmers - 바탕화면 정리" />
-    <MESSAGE value="Programmers - 성격 유형 검사하기" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 주사위의 개수" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 합성수 찾기" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 최댓값 만들기(1)" />
-    <MESSAGE value="Programmers 코딩테스트 입문 - 팩토리얼" />
     <MESSAGE value="Programmers 코딩테스트 입문 - 모음 제거" />
     <MESSAGE value="Programmers 코딩테스트 입문 - 문자열 정렬하기 (1)" />
     <MESSAGE value="Programmers 코딩테스트 입문 - 숨어있는 숫자의 덧셈 (1)" />
@@ -561,7 +555,15 @@
     <MESSAGE value="Java" />
     <MESSAGE value="Programmers - 키패드 누르기" />
     <MESSAGE value="Programmers 코딩테스트 입문 - 잘라서 배열로 저장하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programmers 코딩테스트 입문 - 잘라서 배열로 저장하기" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 중복된 숫자 개수" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 머쓱이보다 키 큰 사람" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 직사각형 넓이 구하기" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 캐릭터의 좌표" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 최댓값 만들기 (2)" />
+    <MESSAGE value="Java And Kotlin" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 다항식 더하기" />
+    <MESSAGE value="Programmers 코딩테스트 입문 - 숨어있는 숫자의 덧셈 (2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers 코딩테스트 입문 - 숨어있는 숫자의 덧셈 (2)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -902,6 +904,26 @@
           <url>file://$PROJECT_DIR$/src/level01/Question11.java</url>
           <line>125</line>
           <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/beginner/day21/Question01.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/beginner/day21/Question01.kt</url>
+          <line>5</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/beginner/day22/Question01.kt</url>
+          <line>31</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/beginner/day22/Question01.kt</url>
+          <line>5</line>
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
